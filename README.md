@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **node-js, D3js**
 
-- 💬 Ask me about **react, js, typescript**
+- 💬 Ask me about **React, Js, Typescript**
 
 - 📫 How to reach me **dudinahoxhaj23@gmail.com**
 
