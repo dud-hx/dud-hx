@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dud-hx" alt="dud-hx" /></a> </p>
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **node-js**
 
 - 💬 Ask me about **react, js, typescript**
 
-- 📫 How to reach me **dudinahoxhaj23@gmail.co,**
+- 📫 How to reach me **dudinahoxhaj23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18dp31PzcVDvXqlAkRRTd-gAucZYtjgj1/view?usp=drive_link](https://drive.google.com/file/d/18dp31PzcVDvXqlAkRRTd-gAucZYtjgj1/view?usp=drive_link)
+- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/18dp31PzcVDvXqlAkRRTd-gAucZYtjgj1/view?usp=drive_link)
 
 - ⚡ Fun fact **I love to hike and bake.**
 
