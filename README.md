@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dudinahoxhaj23@gmail.com**
 
-- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/18dp31PzcVDvXqlAkRRTd-gAucZYtjgj1/view?usp=drive_link)
+- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/100lPMkzxhKbBLPMVyVjL2KkkBtT_7ljM/view?usp=drive_link)
 
 - ⚡ Fun fact **I love to hike and bake.**
 
