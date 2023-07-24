@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dud-hx" alt="dud-hx" /></a> </p>
 
-- 🌱 I’m currently learning **node-js**
+- 🌱 I’m currently learning **node-js, D3js**
 
 - 💬 Ask me about **react, js, typescript**
 
