@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+   <a  href="https://www.linkedin.com/in/dudina-hoxhaj-a64b551b0/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
